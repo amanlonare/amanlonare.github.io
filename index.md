@@ -9,7 +9,7 @@
 [![Open Website](https://img.shields.io/badge/Thesis_Report-blue?logo=googlechrome&logoColor=white)](https://drive.google.com/file/d/1Lz0lGihqu9yEgA_ge1wRRViohPJtWRxg/view)
 
 <div style="text-align: justify">
-For my Master’s Thesis at the Centre for Technology Alternatives for Rural Areas, IIT Bombay, an interdisciplinary department focused on improving agricultural productivity in India, I developed a web portal for farmers, government agencies, and sugarcane mills to enable real-time crop monitoring using remote sensing in Google Earth Engine (GEE). Using CNN models on open-source satellite imagery, Sentinel and LANDSAT, the system achieved **78% accuracy** and an F1-score of 0.8 in crop yield prediction. The portal contributed to a 15% increase in the Minimum Selling Price (MSP) of sugarcane by enhancing supply chain efficiency and reducing spoilage.
+For my Master’s Thesis at the Centre for Technology Alternatives for Rural Areas, IIT Bombay, an interdisciplinary department focused on improving agricultural productivity in India, I developed a web portal for farmers, government agencies, and sugarcane mills to enable real-time crop monitoring using remote sensing in Google Earth Engine (GEE). Using CNN models on open-source satellite imagery, Sentinel and LANDSAT, the system achieved 78% accuracy and an F1-score of 0.8 in crop yield prediction. The portal contributed to a 15% increase in the Minimum Selling Price (MSP) of sugarcane by enhancing supply chain efficiency and reducing spoilage.
 </div>
 
 <br>
