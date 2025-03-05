@@ -8,15 +8,10 @@
 [![Open Research Paper](https://img.shields.io/badge/PDF-Research_Paper-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/ResearchPaper.pdf)
 [![Open Website](https://img.shields.io/badge/Thesis_Report-blue?logo=googlechrome&logoColor=white)](https://drive.google.com/file/d/1Lz0lGihqu9yEgA_ge1wRRViohPJtWRxg/view)
 
-
-My Master's Thesis in [***Centre for Technology Alternatives for Rural Areas***](https://www.ctara.iitb.ac.in/), an interdisciplicary department of IIT Bombay.
-
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
-
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
+For my Master’s Thesis at the [***Centre for Technology Alternatives for Rural Areas***](https://www.ctara.iitb.ac.in/), IIT Bombay, an interdisciplinary department focused on improving agricultural productivity in India, I developed a web portal for farmers, government agencies, and sugarcane mills to enable real-time crop monitoring using remote sensing in **Google Earth Engine (GEE)**. Using CNN models on open-source satellite imagery, Sentinel and LANDSAT, the system achieved **78% accuracy** and an **F1-score of 0.8** in crop yield prediction. The portal contributed to a **15% increase in the Minimum Selling Price (MSP)** of sugarcane by enhancing supply chain efficiency and reducing spoilage.
 
 {: style="text-align: center"}
-![Natural Language Processing visualization](images/yieldmap2.gif)
+![Sugarcane Yield Map of Junekhed](images/yieldmap2.gif)
 
 ---
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
