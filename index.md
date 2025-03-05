@@ -13,7 +13,7 @@ For my Master’s Thesis at the Centre for Technology Alternatives for Rural Are
 </div>
 
 <br>
-![Sugarcane Crop Yield Map](images/yieldmap2.gif){: .center-image}
+![Sugarcane Yield Map](images/yieldmap2.gif){: .center-image}
 <br>
 
 ---

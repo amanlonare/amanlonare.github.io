@@ -2,3 +2,36 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+.center-image {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin: 2px;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    &:hover {
+      background: #f0f0f0;
+      transform: translateY(-1px);
+    }
+  }
+  
+  h3 {
+    border-bottom: 1px solid #eaecef;
+    padding-bottom: 0.3em;
+  }
+  
+  .badge-container {
+    margin: 10px 0;
+    img {
+      margin-right: 5px;
+    }
+  }
