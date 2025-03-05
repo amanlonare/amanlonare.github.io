@@ -4,10 +4,12 @@
 
 ### Decision Support System (DSS) for Agriculture Monitoring using Convolutional Neural Network (CNN)
 
-My Master's Thesis in [***Centre for Technology Alternatives for Rural Areas***](https://www.ctara.iitb.ac.in/), an interdisciplicary department of IIT Bombay.
-
 [![Open Website](https://img.shields.io/badge/Demo-blue?logo=googlechrome&logoColor=white)](https://amanlonare95.users.earthengine.app/view/yieldmap)
-[![Open Research Paper](https://img.shields.io/badge/PDF-Open_Research_Paper-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/ResearchPaper.pdf)
+[![Open Research Paper](https://img.shields.io/badge/PDF-Research_Paper-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/ResearchPaper.pdf)
+[![Open Website](https://img.shields.io/badge/Thesis_Report-blue?logo=googlechrome&logoColor=white)](https://drive.google.com/file/d/1Lz0lGihqu9yEgA_ge1wRRViohPJtWRxg/view)
+
+
+My Master's Thesis in [***Centre for Technology Alternatives for Rural Areas***](https://www.ctara.iitb.ac.in/), an interdisciplicary department of IIT Bombay.
 
 **Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
 
