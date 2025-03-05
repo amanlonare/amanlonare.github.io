@@ -1,21 +1,33 @@
 ## Portfolio
 
+### 🔬 Data Science Projects
+
+[Advanced Machine Learning Project](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true" alt="ML Project"/>
+> Deep learning model for predictive analytics using TensorFlow
+
+[Data Visualization Dashboard](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true" alt="Dashboard"/>
+> Interactive dashboard built with Python and Plotly
+
+### 🛠️ Engineering Projects
+
+[ETL Pipeline Design](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true" alt="ETL Pipeline"/>
+> Scalable data pipeline processing 1M+ records daily
+
+### 📊 Data Analysis
+
+- [Market Analysis Project](http://example.com/) - Using R for statistical analysis
+- [Customer Segmentation](http://example.com/) - K-means clustering implementation
+- [Time Series Forecasting](http://example.com/) - ARIMA models for sales prediction
+
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
+### 🏆 Certifications & Awards
+- AWS Certified Data Analytics
+- Google Cloud Professional Data Engineer
+- Kaggle Competition Top 5%
 
 ### Category Name 2
 
