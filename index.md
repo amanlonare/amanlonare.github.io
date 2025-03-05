@@ -4,9 +4,10 @@
 
 ### Decision Support System (DSS) for Agriculture Monitoring using Convolutional Neural Network (CNN)
 
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
+My Master's Thesis in [***Centre for Technology Alternatives for Rural Areas***](https://www.ctara.iitb.ac.in/), an interdisciplicary department of IIT Bombay.
 
-[![Open Website](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
+[![Open Website](https://img.shields.io/badge/Open_Website-blue?logo=googlechrome)](https://amanlonare95.users.earthengine.app/view/yieldmap/)
+[![Open Research Paper](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/ResearchPaper.pdf)
 
 **Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
 
