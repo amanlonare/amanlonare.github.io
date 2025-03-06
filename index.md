@@ -23,18 +23,18 @@ For my Master’s Thesis at the Centre for Technology Alternatives for Rural Are
 [![Read on Medium](https://img.shields.io/badge/Medium-Read_on_Medium-blue?logo=medium)](https://medium.com/@amanlonare/near-real-time-data-replication-from-mysql-to-postgresql-ii-3c8d7a56cc8f)
 
 <div style="text-align: justify">For my project on Near Real-Time Data Replication from MySQL to PostgreSQL, I built a change data capture (CDC) pipeline using Debezium, Kafka, and Docker for seamless, low-latency data replication. I analyzed change data events (INSERT, UPDATE, DELETE) from MySQL, streamed them to Kafka, and replicated them to PostgreSQL in a fully containerized setup. This project showcases my expertise in data streaming, infrastructure automation, and scalable data pipelines. It has real-world applications in real-time analytics, cross-database synchronization, and cloud migrations, enabling fault-tolerant, downtime-free data integration across diverse environments.</div>
-
+<br>
 ![Real Time Data Replication](images/data_replication.png){: .center-image}
+<br>
 
 ---
-### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
+### Performance Testing of RDS MySQL Database using sysbench
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
+[![Read on Medium](https://img.shields.io/badge/Medium-Read_on_Medium-blue?logo=medium)](https://medium.com/@amanlonare/performance-testing-of-rds-mysql-database-using-sysbench-d95eca450fa7)
 
-<div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
+<div style="text-align: justify">For my project on Performance Testing of Amazon RDS MySQL, I implemented a benchmarking framework using sysbench to evaluate database performance under different workloads. I deployed an Amazon EC2 instance to generate synthetic queries against an RDS MySQL database while monitoring key metrics like query latency, CPU utilization, and IOPS using Amazon CloudWatch. This project demonstrates my expertise in database performance optimization, cloud infrastructure, and benchmarking techniques. It has real-world applications in database capacity planning, optimizing cloud costs, and ensuring high-performance database configurations for scalable applications.</div>
 <br>
-![Food trends analysis from Facebook posts](images/dummy_thumbnail.jpg){: .center-image}
+![MySQL RDS Performance Testing](images/performance_testing_rds.png){: .center-image}
 <br>
 
 ---
