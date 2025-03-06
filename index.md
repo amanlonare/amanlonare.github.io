@@ -1,6 +1,6 @@
 # Portfolio
 ---
-## Data Science
+## Data Science & Engineering
 
 ### Decision Support System (DSS) for Agriculture Monitoring using Convolutional Neural Network (CNN)
 
@@ -17,13 +17,14 @@ For my Master’s Thesis at the Centre for Technology Alternatives for Rural Are
 <br>
 
 ---
-### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
+### Near Real Time Data Replication from MySQL to PostgreSQL
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/amanlonare/CDC-MySQL-Debezium-PostgreSQL)
+[![Read on Medium](https://img.shields.io/badge/Medium-Read_on_Medium-blue?logo=medium)](https://medium.com/@amanlonare/near-real-time-data-replication-from-mysql-to-postgresql-ii-3c8d7a56cc8f)
 
-<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
+<div style="text-align: justify">For my project on Near Real-Time Data Replication from MySQL to PostgreSQL, I built a change data capture (CDC) pipeline using Debezium, Kafka, and Docker for seamless, low-latency data replication. I analyzed change data events (INSERT, UPDATE, DELETE) from MySQL, streamed them to Kafka, and replicated them to PostgreSQL in a fully containerized setup. This project showcases my expertise in data streaming, infrastructure automation, and scalable data pipelines. It has real-world applications in real-time analytics, cross-database synchronization, and cloud migrations, enabling fault-tolerant, downtime-free data integration across diverse environments.</div>
 
-![BERT Classification Model](images/dummy_thumbnail.jpg){: .center-image}
+![Real Time Data Replication](images/data_replication.png){: .center-image}
 
 ---
 ### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
