@@ -39,7 +39,7 @@ For my Master’s Thesis at the Centre for Technology Alternatives for Rural Are
 
 ---
 
-### Generative AI
+## Generative AI
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
