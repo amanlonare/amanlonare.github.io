@@ -35,3 +35,12 @@
       margin-right: 5px;
     }
   }
+
+  .medium-image {
+    display: block;
+    margin: 0 auto;
+    max-width: 60%;    // Reduces image to 70% of container width
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  }
