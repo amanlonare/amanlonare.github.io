@@ -1,5 +1,26 @@
 # Portfolio
 ---
+## Generative AI
+
+### Agentic Document Extraction for Filling the Application Form
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/amanlonare/agentic_document_form_filler)
+
+<div style="text-align: justify">
+This project demonstrates an intelligent form-filling agent which utilizes Llama Index's workflow framework for orchestrating complex AI tasks using event-driven architecture. It leverages Groq's LLM for natural language understanding and generation, and HuggigFace embedding models for embeddings. It implements vector store indexing for efficient document retrieval and combines retrieved context with LLM generation for accurate responses. The package can be used as a tool for extracting fields from an application form and automate filling the application form based on the context stored which can be from user's any document like resume etc.
+</div>
+
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <div style="flex: 1;">
+    ![Workflow Demonstration](images/workflow_agentic_flow.png){: .center-image}
+  </div>
+  <div style="flex: 1;">
+    ![Architecture](images/agentic_document_workflow_architecture.png){: .center-image}
+  </div>
+</div>
+
+---
+
 ## Data Science & Engineering
 
 ### Decision Support System (DSS) for Agriculture Monitoring using Convolutional Neural Network (CNN)
@@ -36,21 +57,6 @@ For my Master’s Thesis at the Centre for Technology Alternatives for Rural Are
 <br>
 ![MySQL RDS Performance Testing](images/performance_testing_rds.png){: .center-image}
 <br>
-
----
-
-## Generative AI
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
 
 ---
 {: style="text-align: center"}
