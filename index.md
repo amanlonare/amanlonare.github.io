@@ -11,7 +11,7 @@ This project demonstrates an intelligent form-filling agent which utilizes Llama
 </div>
 
 <br>
-![Workflow Demonstration](images/agentic_document_workflow_architecture.png){: .center-image}
+![Workflow Demonstration](images/agentic_workflow_arch_flow.png){: .center-image}
 <br>
 <!-- 
 <br>
