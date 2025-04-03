@@ -10,14 +10,22 @@
 This project demonstrates an intelligent form-filling agent which utilizes Llama Index's workflow framework for orchestrating complex AI tasks using event-driven architecture. It leverages Groq's LLM for natural language understanding and generation, and HuggigFace embedding models for embeddings. It implements vector store indexing for efficient document retrieval and combines retrieved context with LLM generation for accurate responses. The package can be used as a tool for extracting fields from an application form and automate filling the application form based on the context stored which can be from user's any document like resume etc.
 </div>
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
+<!-- <div style="display: flex; justify-content: space-between; gap: 20px;">
   <div style="flex: 1;">
     ![Workflow Demonstration](images/workflow_agentic_flow.png){: .center-image}
   </div>
   <div style="flex: 1;">
     ![Architecture](images/agentic_document_workflow_architecture.png){: .center-image}
   </div>
-</div>
+</div> -->
+
+<br>
+![Workflow Demonstration](images/workflow_agentic_flow.png){: .center-image}
+<br>
+
+<br>
+![Architecture](images/agentic_document_workflow_architecture.png){: .center-image}
+<br>
 
 ---
 
