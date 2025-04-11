@@ -20,6 +20,20 @@ This project showcases an advanced intelligent form-filling agent built using Ll
 
 ---
 
+### Building your own LLM from Scratch
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/amanlonare/pretraining_llm_scratch)
+
+<div style="text-align: justify">
+This project demonstrates a comprehensive approach to building and training Large Language Models (LLMs) from the ground up using the Hugging Face transformers library. The implementation leveraes Meta's OPT (Open Pretrained Transformer) architecture as base pretrained model and showcases the complete pipeline from data preparation to model training. The project begins with robust data preparation using two alternative approaches: Upstage's DataVerse ETL framework and traditional custom cleaning methods, processing data from Hugging Face's pretraining dataset and scraped Python scripts from GitHub.The data preparation phase includes thorough cleaning steps to ensure quality training data, followed by efficient data packaging. The model configuration step demonstrates four distinct initialization strategies: random initialization, transfer learning from existing models, innovative architecture modifications through downscaling (12→10 layers), and upscaling (12→16 layers), all built upon the facebook/opt-125m model as the base architecture. The training implementation leverages Hugging Face's Trainer with advanced features like gradient checkpointing and mixed-precision training (bfloat16), showcasing practical approaches to LLM pre-training while balancing computational efficiency and model performance. This project serves as a comprehensive guide for understanding and implementing the full lifecycle of building an LLM from scratch.
+</div>
+
+<br>
+![Pretraining LLM](images/pretraining_llm.png){: .center-image}
+<br>
+
+---
+
 ## Data Science & Engineering
 
 ### Decision Support System (DSS) for Agriculture Monitoring using Convolutional Neural Network (CNN)
