@@ -20,6 +20,20 @@ This project showcases an advanced intelligent form-filling agent built using Ll
 
 ---
 
+### Multimodal AI System with Local LLMs for Document, Image, and Voice Processing
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/amanlonare/chatbot_local)
+
+<div style="text-align: justify">
+This project demonstrates a streamlined system integrating multiple large language models with ChromaDB vector storage for local document processing, audio transcription, and image analysis capabilities. Developed to ensure complete data sovereignty and privacy by running sophisticated language models entirely on-premises, eliminating cloud dependencies and external API requirements. I architected and developed a comprehensive multimodal chatbot system that operates entirely locally, demonstrating my expertise in modern LLM technologies. By implementing an extensible architecture supporting multiple language models through Ollama integration, I engineered sophisticated features including semantic document search using ChromaDB vector storage, real-time audio transcription with Whisper models, and efficient document chunking for context-aware responses. I designed a robust state management system using SQLite with thread-safe connection pooling, while creating an intuitive user interface with Streamlit. The project showcases my ability to handle complex system architecture, work with cutting-edge LLM technologies, and implement production-grade features like session management, document processing, and multimodal interactions - all while maintaining data privacy and security through local deployment
+</div>
+
+<br>
+![Local Chatbot](images/chatbot_local_arch.jpg){: .center-image}
+<br>
+
+---
+
 ### Building your own LLM from Scratch
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/amanlonare/pretraining_llm_scratch)
