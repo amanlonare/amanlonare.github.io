@@ -45,7 +45,7 @@ FarmGPT is a modular Decision Support System for agriculture, leveraging Generat
 </div>
 
 <br>
-![Pretraining LLM](images/pretraining_llm.png){: .center-image}
+![DSS Farmers](images/dss_farmers.png){: .center-image}
 <br>
 
 ---
