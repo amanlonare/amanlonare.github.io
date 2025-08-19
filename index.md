@@ -1,5 +1,7 @@
 # Portfolio
+
 ---
+
 ## Generative AI
 
 ### Agentic Document Extraction for Filling the Application Form
@@ -30,6 +32,20 @@ This project demonstrates a streamlined system integrating multiple large langua
 
 <br>
 ![Local Chatbot](images/chatbot_local_arch.jpg){: .center-image}
+<br>
+
+---
+
+### FarmGPT: MCP-Driven RAG & LLM Agricultural Advisor
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/amanlonare/dss_farmers.git)
+
+<div style="text-align: justify">
+FarmGPT is a modular Decision Support System for agriculture, leveraging Generative AI to deliver personalized recommendations to farmers. The architecture is built on Model Context Protocol (MCP) servers, with dedicated microservices for weather data retrieval and agricultural knowledge access via Retrieval-Augmented Generation (RAG). The backend utilizes ChromaDB as a vector database for semantic search across curated agricultural documents, and employs transformer-based embedding models for document vectorization. Custom prompt engineering ensures optimal interaction with Large Language Models (LLMs), supporting configurable integration of advanced open-source models such as PLLaMa, Llama 2, and Mistral. The system features a robust command-line interface, enabling farmers to input crop details, soil parameters, and queries to receive actionable, context-aware guidance. Technical highlights include asynchronous Server-Sent Events (SSE) for real-time data streaming, scalable Python microservices, and a modern API-first design—demonstrating expertise in LLM orchestration, vector search, and practical AI for real-world agricultural decision-making.
+</div>
+
+<br>
+![Pretraining LLM](images/pretraining_llm.png){: .center-image}
 <br>
 
 ---
@@ -65,6 +81,7 @@ For my Master’s Thesis at the Centre for Technology Alternatives for Rural Are
 <br>
 
 ---
+
 ### Near Real Time Data Replication from MySQL to PostgreSQL
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/amanlonare/CDC-MySQL-Debezium-PostgreSQL)
@@ -76,6 +93,7 @@ For my Master’s Thesis at the Centre for Technology Alternatives for Rural Are
 <br>
 
 ---
+
 ### Performance Testing of RDS MySQL Database using sysbench
 
 [![Read on Medium](https://img.shields.io/badge/Medium-Read_on_Medium-blue?logo=medium)](https://medium.com/@amanlonare/performance-testing-of-rds-mysql-database-using-sysbench-d95eca450fa7)
