@@ -13,7 +13,6 @@
   <span class="tech-badge">Groq LLM</span>
   <span class="tech-badge">Hugging Face</span>
   <span class="tech-badge">Agentic Workflow</span>
-  <span class="tech-badge">Embeddings</span>
   <span class="tech-badge">Event-driven</span>
 </div>
 
@@ -60,7 +59,7 @@ This project demonstrates a streamlined system integrating multiple large langua
 
 <div class="tech-stack">
   <span class="tech-badge">RAG</span>
-  <span class="tech-badge">MCP</span>
+  <span class="tech-badge">Model Context Protocol (MCP)</span>
   <span class="tech-badge">ChromaDB</span>
   <span class="tech-badge">PLLaMa</span>
 </div>
@@ -129,7 +128,7 @@ For my Master’s Thesis at the Centre for Technology Alternatives for Rural Are
 [![Read on Medium](https://img.shields.io/badge/Medium-Read_on_Medium-blue?logo=medium)](https://medium.com/@amanlonare/near-real-time-data-replication-from-mysql-to-postgresql-ii-3c8d7a56cc8f)
 
 <div class="tech-stack">
-  <span class="tech-badge">CDC</span>
+  <span class="tech-badge">Change Data Capture (CDC)</span>
   <span class="tech-badge">Debezium</span>
   <span class="tech-badge">Kafka</span>
   <span class="tech-badge">Docker</span>
