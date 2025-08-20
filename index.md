@@ -12,8 +12,7 @@
   <span class="tech-badge">LlamaIndex</span>
   <span class="tech-badge">Groq LLM</span>
   <span class="tech-badge">Hugging Face</span>
-  <span class="tech-badge">Vector Store</span>
-  <span class="tech-badge">RAG</span>
+  <span class="tech-badge">Agentic Workflow</span>
   <span class="tech-badge">Embeddings</span>
   <span class="tech-badge">Event-driven</span>
 </div>
@@ -37,7 +36,6 @@ This project showcases an advanced intelligent form-filling agent built using Ll
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/amanlonare/chatbot_local)
 
 <div class="tech-stack">
-  <span class="tech-badge">Local LLMs</span>
   <span class="tech-badge">ChromaDB</span>
   <span class="tech-badge">Ollama</span>
   <span class="tech-badge">Whisper</span>
@@ -63,15 +61,12 @@ This project demonstrates a streamlined system integrating multiple large langua
 <div class="tech-stack">
   <span class="tech-badge">RAG</span>
   <span class="tech-badge">MCP</span>
-  <span class="tech-badge">Microservices</span>
   <span class="tech-badge">ChromaDB</span>
-  <span class="tech-badge">Llama 2</span>
-  <span class="tech-badge">Mistral</span>
-  <span class="tech-badge">Vector Database</span>
+  <span class="tech-badge">PLLaMa</span>
 </div>
 
 <div style="text-align: justify">
-FarmGPT is a modular Decision Support System for agriculture, leveraging Generative AI to deliver personalized recommendations to farmers. The architecture is built on Model Context Protocol (MCP) servers, with dedicated microservices for weather data retrieval and agricultural knowledge access via Retrieval-Augmented Generation (RAG). The backend utilizes ChromaDB as a vector database for semantic search across curated agricultural documents, and employs transformer-based embedding models for document vectorization. Custom prompt engineering ensures optimal interaction with Large Language Models (LLMs), supporting configurable integration of advanced open-source models such as PLLaMa, Llama 2, and Mistral. The system features a robust command-line interface, enabling farmers to input crop details, soil parameters, and queries to receive actionable, context-aware guidance. Technical highlights include asynchronous Server-Sent Events (SSE) for real-time data streaming, scalable Python microservices, and a modern API-first design—demonstrating expertise in LLM orchestration, vector search, and practical AI for real-world agricultural decision-making.
+FarmGPT is a modular Decision Support System for agriculture, leveraging Generative AI to deliver personalized recommendations to farmers. The architecture is built on Model Context Protocol (MCP) servers, with dedicated servers for weather data retrieval and agricultural knowledge access via Retrieval-Augmented Generation (RAG). The backend utilizes ChromaDB as a vector database for semantic search across curated agricultural documents, and employs transformer-based embedding models for document vectorization. Custom prompt engineering ensures optimal interaction with Large Language Models (LLMs), supporting configurable integration of advanced open-source models such as PLLaMa, Llama 2, and Mistral. The system features a robust command-line interface, enabling farmers to input crop details, soil parameters, and queries to receive actionable, context-aware guidance. Technical highlights include asynchronous Server-Sent Events (SSE) for real-time data streaming, and a modern API-first design—demonstrating expertise in LLM orchestration, vector search, and practical AI for real-world agricultural decision-making.
 </div>
 
 <br>
@@ -86,11 +81,9 @@ FarmGPT is a modular Decision Support System for agriculture, leveraging Generat
 
 <div class="tech-stack">
   <span class="tech-badge">Hugging Face</span>
-  <span class="tech-badge">OPT</span>
+  <span class="tech-badge">Open Pretrained Transformer</span>
   <span class="tech-badge">Transfer Learning</span>
-  <span class="tech-badge">ETL</span>
-  <span class="tech-badge">Model Pre-training</span>
-  <span class="tech-badge">Mixed-precision Training</span>
+  <span class="tech-badge">DataVerse</span>
 </div>
 
 <div style="text-align: justify">
@@ -115,7 +108,7 @@ This project demonstrates a comprehensive approach to building and training Larg
   <span class="tech-badge">CNN</span>
   <span class="tech-badge">Google Earth Engine</span>
   <span class="tech-badge">Remote Sensing</span>
-  <span class="tech-badge">Satellite Imagery</span>
+  <span class="tech-badge">Satellite Image Processing</span>
   <span class="tech-badge">Computer Vision</span>
   <span class="tech-badge">LANDSAT</span>
 </div>
