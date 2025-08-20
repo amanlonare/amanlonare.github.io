@@ -8,6 +8,16 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/amanlonare/agentic_document_form_filler)
 
+<div class="tech-stack">
+  <span class="tech-badge">LlamaIndex</span>
+  <span class="tech-badge">Groq LLM</span>
+  <span class="tech-badge">Hugging Face</span>
+  <span class="tech-badge">Vector Store</span>
+  <span class="tech-badge">RAG</span>
+  <span class="tech-badge">Embeddings</span>
+  <span class="tech-badge">Event-driven</span>
+</div>
+
 <div style="text-align: justify">
 This project showcases an advanced intelligent form-filling agent built using LlamaIndex's workflow framework to orchestrate complex AI-driven processes within an event-driven architecture. It integrates Groq's LLM for sophisticated natural language understanding and generation, while leveraging Hugging Face embedding models for high-dimensional vector representations. The system employs vector store indexing for efficient document retrieval, enabling contextual augmentation of LLM-generated outputs for enhanced accuracy. Designed as an automation tool for extracting and populating form fields, the agent dynamically processes structured and unstructured data sources, such as user-provided documents (e.g., resumes). Furthermore, it incorporates a human-in-the-loop feedback mechanism, acknowledging the role of LLMs as augmentative rather than autonomous systems. Based on user feedback, the system iteratively refines its responses, ensuring improved accuracy and alignment with human intent.
 </div>
