@@ -10,10 +10,11 @@
 
 <div class="tech-stack">
   <span class="tech-badge">LlamaIndex</span>
+  <span class="tech-badge">Agentic Workflow</span>
   <span class="tech-badge">Groq LLM</span>
   <span class="tech-badge">Hugging Face</span>
   <span class="tech-badge">Vector Store</span>
-  <span class="tech-badge">RAG</span>
+  <span class="tech-badge">OpenAI</span>
   <span class="tech-badge">Embeddings</span>
   <span class="tech-badge">Event-driven</span>
 </div>
@@ -37,7 +38,6 @@ This project showcases an advanced intelligent form-filling agent built using Ll
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/amanlonare/chatbot_local)
 
 <div class="tech-stack">
-  <span class="tech-badge">Local LLMs</span>
   <span class="tech-badge">ChromaDB</span>
   <span class="tech-badge">Ollama</span>
   <span class="tech-badge">Whisper</span>
@@ -61,11 +61,10 @@ This project demonstrates a streamlined system integrating multiple large langua
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/amanlonare/dss_farmers.git)
 
 <div class="tech-stack">
-  <span class="tech-badge">RAG</span>
+  <span class="tech-badge">Advanced RAG</span>
   <span class="tech-badge">MCP</span>
-  <span class="tech-badge">Microservices</span>
   <span class="tech-badge">ChromaDB</span>
-  <span class="tech-badge">Llama 2</span>
+  <span class="tech-badge">Llama</span>
   <span class="tech-badge">Mistral</span>
   <span class="tech-badge">Vector Database</span>
 </div>
@@ -85,16 +84,14 @@ FarmGPT is a modular Decision Support System for agriculture, leveraging Generat
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/amanlonare/pretraining_llm_scratch)
 
 <div class="tech-stack">
-  <span class="tech-badge">Hugging Face</span>
-  <span class="tech-badge">OPT</span>
+  <span class="tech-badge">Open Pretrained Transformer</span>
   <span class="tech-badge">Transfer Learning</span>
-  <span class="tech-badge">ETL</span>
-  <span class="tech-badge">Model Pre-training</span>
-  <span class="tech-badge">Mixed-precision Training</span>
+  <span class="tech-badge">Pre-training</span>
+  <span class="tech-badge">DataVerse</span>
 </div>
 
 <div style="text-align: justify">
-This project demonstrates a comprehensive approach to building and training Large Language Models (LLMs) from the ground up using the Hugging Face transformers library. The implementation leveraes Meta's OPT (Open Pretrained Transformer) architecture as base pretrained model and showcases the complete pipeline from data preparation to model training. The project begins with robust data preparation using two alternative approaches: Upstage's DataVerse ETL framework and traditional custom cleaning methods, processing data from Hugging Face's pretraining dataset and scraped Python scripts from GitHub.The data preparation phase includes thorough cleaning steps to ensure quality training data, followed by efficient data packaging. The model configuration step demonstrates four distinct initialization strategies: random initialization, transfer learning from existing models, innovative architecture modifications through downscaling (12→10 layers), and upscaling (12→16 layers), all built upon the facebook/opt-125m model as the base architecture. The training implementation leverages Hugging Face's Trainer with advanced features like gradient checkpointing and mixed-precision training (bfloat16), showcasing practical approaches to LLM pre-training while balancing computational efficiency and model performance. This project serves as a comprehensive guide for understanding and implementing the full lifecycle of building an LLM from scratch.
+This project demonstrates a comprehensive approach to building and training Large Language Models (LLMs) from the ground up using the Hugging Face transformers library. The implementation leverages Meta's OPT (Open Pretrained Transformer) architecture as base pretrained model and showcases the complete pipeline from data preparation to model training. The project begins with robust data preparation using two alternative approaches: Upstage's DataVerse ETL framework and traditional custom cleaning methods, processing data from Hugging Face's pretraining dataset and scraped Python scripts from GitHub.The data preparation phase includes thorough cleaning steps to ensure quality training data, followed by efficient data packaging. The model configuration step demonstrates four distinct initialization strategies: random initialization, transfer learning from existing models, innovative architecture modifications through downscaling (12→10 layers), and upscaling (12→16 layers), all built upon the facebook/opt-125m model as the base architecture. The training implementation leverages Hugging Face's Trainer with advanced features like gradient checkpointing and mixed-precision training (bfloat16), showcasing practical approaches to LLM pre-training while balancing computational efficiency and model performance. This project serves as a comprehensive guide for understanding and implementing the full lifecycle of building an LLM from scratch.
 </div>
 
 <br>
@@ -162,7 +159,7 @@ For my Master’s Thesis at the Centre for Technology Alternatives for Rural Are
   <span class="tech-badge">sysbench</span>
   <span class="tech-badge">EC2</span>
   <span class="tech-badge">CloudWatch</span>
-  <span class="tech-badge">AWS</span>
+  <span class="tech-badge">AWS Cloud</span>
 </div>
 
 <div style="text-align: justify">For my project on Performance Testing of Amazon RDS MySQL, I implemented a benchmarking framework using sysbench to evaluate database performance under different workloads. I deployed an Amazon EC2 instance to generate synthetic queries against an RDS MySQL database while monitoring key metrics like query latency, CPU utilization, and IOPS using Amazon CloudWatch. This project demonstrates my expertise in database performance optimization, cloud infrastructure, and benchmarking techniques. It has real-world applications in database capacity planning, optimizing cloud costs, and ensuring high-performance database configurations for scalable applications.</div>
